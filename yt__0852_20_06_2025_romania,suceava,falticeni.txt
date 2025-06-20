@@ -1,0 +1,96 @@
+Orchestrator: Starting workflow for keywords: romania,suceava,falticeni
+TagOptimizerAgent: Executing...TagOptimizerAgent: Calling callback...Orchestrator: Received results from TagOptimizerAgent.
+VideoAnalyzerAgent: Executing...VideoAnalyzerAgent: Analysis Results: {'num_videos_found': 20, 'most_common_tags': [('Suceava', 7), ('Romania', 6), ('travel vlog', 6), ('Radauti', 6), ('Iasi', 5)], 'average_view_count': 702.75, 'average_like_count': 5.35, 'average_comment_count': 0.2, 'highest_view_video': {'title': 'Orasul Falticeni Suceava Romania', 'viewCount': 2812, 'url': 'https://www.youtube.com/watch?v=WYrKndf_J4g'}, 'most_recent_video': {'title': 'Fălticeni Suceava România', 'publishedAt': '2025-06-20T07:01:52Z', 'url': 'https://www.youtube.com/watch?v=xgyhr_2XFs8'}, 'channel_distribution': {'Laurentiu vlog': 1, 'invrancea RO': 6, 'Real time travel': 6, 'Cars from Bucovina': 3, 'Totul despre nimic': 1, 'Reisemål Romania': 1, 'Dinu ZARĂ': 1, 'Craciun Gheorghina': 1}, 'status': 'success'}VideoAnalyzerAgent: Calling callback...Orchestrator: Received results from VideoAnalyzerAgent.
+InsightAgent: Executing...InsightAgent: Generated Insights:
+Found 20 videos related to the topic.
+The most common tag is 'Suceava', suggesting its importance for discoverability.
+On average, videos in this topic have approximately 703 views.
+The video with the highest views is 'Orasul Falticeni Suceava Romania' with 2,812 views, indicating a potential trend or popular content style.
+The most recent video found is 'Fălticeni Suceava România', published on 2025-06-20T07:01:52Z, highlighting recent activity in the topic.
+The videos are spread across 8 different channels.
+'invrancea RO' is the most active channel found in this search with 6 video(s).InsightAgent: Calling callback...Orchestrator: Received results from InsightAgent.
+ReportGeneratorAgent: Executing...ReportGeneratorAgent: Generated Report:
+--- Analysis Report ---
+
+--- Key Insights ---
+Found 20 videos related to the topic.
+The most common tag is 'Suceava', suggesting its importance for discoverability.
+On average, videos in this topic have approximately 703 views.
+The video with the highest views is 'Orasul Falticeni Suceava Romania' with 2,812 views, indicating a potential trend or popular content style.
+The most recent video found is 'Fălticeni Suceava România', published on 2025-06-20T07:01:52Z, highlighting recent activity in the topic.
+The videos are spread across 8 different channels.
+'invrancea RO' is the most active channel found in this search with 6 video(s).
+
+--- Video Analysis ---
+Number of videos found: 20
+Most Common Tags:
+- Suceava (7)
+- Romania (6)
+- travel vlog (6)
+- Radauti (6)
+- Iasi (5)
+
+--- Statistics Analysis ---
+Average View Count: 703
+Average Like Count: 5
+Average Comment Count: 0
+Video with Highest Views: "Orasul Falticeni Suceava Romania" (2,812 views)
+URL: https://www.youtube.com/watch?v=WYrKndf_J4g
+Most Recent Video: "Fălticeni Suceava România"
+Published On: 2025-06-20T07:01:52Z
+URL: https://www.youtube.com/watch?v=xgyhr_2XFs8
+
+--- Channel Distribution ---
+- Laurentiu vlog: 1 video(s)
+- invrancea RO: 6 video(s)
+- Real time travel: 6 video(s)
+- Cars from Bucovina: 3 video(s)
+- Totul despre nimic: 1 video(s)
+- Reisemål Romania: 1 video(s)
+- Dinu ZARĂ: 1 video(s)
+- Craciun Gheorghina: 1 video(s)
+-----------------------
+ReportGeneratorAgent: Calling callback...Orchestrator: Received results from ReportGeneratorAgent.
+
+--- FINAL REPORT ---
+--- Analysis Report ---
+
+--- Key Insights ---
+Found 20 videos related to the topic.
+The most common tag is 'Suceava', suggesting its importance for discoverability.
+On average, videos in this topic have approximately 703 views.
+The video with the highest views is 'Orasul Falticeni Suceava Romania' with 2,812 views, indicating a potential trend or popular content style.
+The most recent video found is 'Fălticeni Suceava România', published on 2025-06-20T07:01:52Z, highlighting recent activity in the topic.
+The videos are spread across 8 different channels.
+'invrancea RO' is the most active channel found in this search with 6 video(s).
+
+--- Video Analysis ---
+Number of videos found: 20
+Most Common Tags:
+- Suceava (7)
+- Romania (6)
+- travel vlog (6)
+- Radauti (6)
+- Iasi (5)
+
+--- Statistics Analysis ---
+Average View Count: 703
+Average Like Count: 5
+Average Comment Count: 0
+Video with Highest Views: "Orasul Falticeni Suceava Romania" (2,812 views)
+URL: https://www.youtube.com/watch?v=WYrKndf_J4g
+Most Recent Video: "Fălticeni Suceava România"
+Published On: 2025-06-20T07:01:52Z
+URL: https://www.youtube.com/watch?v=xgyhr_2XFs8
+
+--- Channel Distribution ---
+- Laurentiu vlog: 1 video(s)
+- invrancea RO: 6 video(s)
+- Real time travel: 6 video(s)
+- Cars from Bucovina: 3 video(s)
+- Totul despre nimic: 1 video(s)
+- Reisemål Romania: 1 video(s)
+- Dinu ZARĂ: 1 video(s)
+- Craciun Gheorghina: 1 video(s)
+-----------------------
+--------------------

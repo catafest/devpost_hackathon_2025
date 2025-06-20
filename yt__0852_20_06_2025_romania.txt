@@ -1,0 +1,118 @@
+Orchestrator: Starting workflow for keywords: romania
+TagOptimizerAgent: Executing...TagOptimizerAgent: Calling callback...Orchestrator: Received results from TagOptimizerAgent.
+VideoAnalyzerAgent: Executing...VideoAnalyzerAgent: Analysis Results: {'num_videos_found': 20, 'most_common_tags': [('history', 2), ('Shorts', 2), ('romania', 2), ('Bucharest', 2), ('Moldova', 2)], 'average_view_count': 8256749.0, 'average_like_count': 118215.6, 'average_comment_count': 4382.45, 'highest_view_video': {'title': 'Ionut Cercel - Made in Romania', 'viewCount': 139314576, 'url': 'https://www.youtube.com/watch?v=VHygTMF98Rw'}, 'most_recent_video': {'title': 'This is Europe in 2025? (Romania)', 'publishedAt': '2025-06-15T13:30:01Z', 'url': 'https://www.youtube.com/watch?v=mSq3ljxv7oM'}, 'channel_distribution': {'Top Travel': 1, 'MeidasTouch': 1, 'Romaniac': 1, 'World Genetics': 1, 'Christian Grossi': 1, 'Mapper Maniac': 1, 'Jasmin and James': 1, 'SalimzWrld': 1, 'Sammy and Tommy': 1, 'Geoballz Animations': 1, 'Going to World': 1, 'Seema Pankhania': 1, 'Epimetheus': 1, 'dyxtrophy_mk': 1, 'Amma Music & Sound': 1, 'Axium': 1, 'SaphriX': 1, 'Edsta': 2, 'Indigo Traveller': 1}, 'status': 'success'}VideoAnalyzerAgent: Calling callback...Orchestrator: Received results from VideoAnalyzerAgent.
+InsightAgent: Executing...InsightAgent: Generated Insights:
+Found 20 videos related to the topic.
+The most common tag is 'history', suggesting its importance for discoverability.
+On average, videos in this topic have approximately 8,256,749 views.
+The video with the highest views is 'Ionut Cercel - Made in Romania' with 139,314,576 views, indicating a potential trend or popular content style.
+The most recent video found is 'This is Europe in 2025? (Romania)', published on 2025-06-15T13:30:01Z, highlighting recent activity in the topic.
+The videos are spread across 19 different channels.
+'Edsta' is the most active channel found in this search with 2 video(s).InsightAgent: Calling callback...Orchestrator: Received results from InsightAgent.
+ReportGeneratorAgent: Executing...ReportGeneratorAgent: Generated Report:
+--- Analysis Report ---
+
+--- Key Insights ---
+Found 20 videos related to the topic.
+The most common tag is 'history', suggesting its importance for discoverability.
+On average, videos in this topic have approximately 8,256,749 views.
+The video with the highest views is 'Ionut Cercel - Made in Romania' with 139,314,576 views, indicating a potential trend or popular content style.
+The most recent video found is 'This is Europe in 2025? (Romania)', published on 2025-06-15T13:30:01Z, highlighting recent activity in the topic.
+The videos are spread across 19 different channels.
+'Edsta' is the most active channel found in this search with 2 video(s).
+
+--- Video Analysis ---
+Number of videos found: 20
+Most Common Tags:
+- history (2)
+- Shorts (2)
+- romania (2)
+- Bucharest (2)
+- Moldova (2)
+
+--- Statistics Analysis ---
+Average View Count: 8,256,749
+Average Like Count: 118,216
+Average Comment Count: 0
+Video with Highest Views: "Ionut Cercel - Made in Romania" (139,314,576 views)
+URL: https://www.youtube.com/watch?v=VHygTMF98Rw
+Most Recent Video: "This is Europe in 2025? (Romania)"
+Published On: 2025-06-15T13:30:01Z
+URL: https://www.youtube.com/watch?v=mSq3ljxv7oM
+
+--- Channel Distribution ---
+- Top Travel: 1 video(s)
+- MeidasTouch: 1 video(s)
+- Romaniac: 1 video(s)
+- World Genetics: 1 video(s)
+- Christian Grossi: 1 video(s)
+- Mapper Maniac: 1 video(s)
+- Jasmin and James: 1 video(s)
+- SalimzWrld: 1 video(s)
+- Sammy and Tommy: 1 video(s)
+- Geoballz Animations: 1 video(s)
+- Going to World: 1 video(s)
+- Seema Pankhania: 1 video(s)
+- Epimetheus: 1 video(s)
+- dyxtrophy_mk: 1 video(s)
+- Amma Music & Sound: 1 video(s)
+- Axium: 1 video(s)
+- SaphriX: 1 video(s)
+- Edsta: 2 video(s)
+- Indigo Traveller: 1 video(s)
+-----------------------
+ReportGeneratorAgent: Calling callback...Orchestrator: Received results from ReportGeneratorAgent.
+
+--- FINAL REPORT ---
+--- Analysis Report ---
+
+--- Key Insights ---
+Found 20 videos related to the topic.
+The most common tag is 'history', suggesting its importance for discoverability.
+On average, videos in this topic have approximately 8,256,749 views.
+The video with the highest views is 'Ionut Cercel - Made in Romania' with 139,314,576 views, indicating a potential trend or popular content style.
+The most recent video found is 'This is Europe in 2025? (Romania)', published on 2025-06-15T13:30:01Z, highlighting recent activity in the topic.
+The videos are spread across 19 different channels.
+'Edsta' is the most active channel found in this search with 2 video(s).
+
+--- Video Analysis ---
+Number of videos found: 20
+Most Common Tags:
+- history (2)
+- Shorts (2)
+- romania (2)
+- Bucharest (2)
+- Moldova (2)
+
+--- Statistics Analysis ---
+Average View Count: 8,256,749
+Average Like Count: 118,216
+Average Comment Count: 0
+Video with Highest Views: "Ionut Cercel - Made in Romania" (139,314,576 views)
+URL: https://www.youtube.com/watch?v=VHygTMF98Rw
+Most Recent Video: "This is Europe in 2025? (Romania)"
+Published On: 2025-06-15T13:30:01Z
+URL: https://www.youtube.com/watch?v=mSq3ljxv7oM
+
+--- Channel Distribution ---
+- Top Travel: 1 video(s)
+- MeidasTouch: 1 video(s)
+- Romaniac: 1 video(s)
+- World Genetics: 1 video(s)
+- Christian Grossi: 1 video(s)
+- Mapper Maniac: 1 video(s)
+- Jasmin and James: 1 video(s)
+- SalimzWrld: 1 video(s)
+- Sammy and Tommy: 1 video(s)
+- Geoballz Animations: 1 video(s)
+- Going to World: 1 video(s)
+- Seema Pankhania: 1 video(s)
+- Epimetheus: 1 video(s)
+- dyxtrophy_mk: 1 video(s)
+- Amma Music & Sound: 1 video(s)
+- Axium: 1 video(s)
+- SaphriX: 1 video(s)
+- Edsta: 2 video(s)
+- Indigo Traveller: 1 video(s)
+-----------------------
+--------------------

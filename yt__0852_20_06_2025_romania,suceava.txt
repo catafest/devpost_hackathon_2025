@@ -1,0 +1,118 @@
+Orchestrator: Starting workflow for keywords: romania,suceava
+TagOptimizerAgent: Executing...TagOptimizerAgent: Calling callback...Orchestrator: Received results from TagOptimizerAgent.
+VideoAnalyzerAgent: Executing...VideoAnalyzerAgent: Analysis Results: {'num_videos_found': 20, 'most_common_tags': [('suceava', 8), ('suceava romania', 5), ('bucovina', 5), ('romania', 4), ('stefan cel mare', 3)], 'average_view_count': 8577.2, 'average_like_count': 188.7, 'average_comment_count': 20.05, 'highest_view_video': {'title': '🇷🇴 Suceava in 4K: The Historical And Cultural Hub of Bukovina', 'viewCount': 48626, 'url': 'https://www.youtube.com/watch?v=BvQ9i3pTO7M'}, 'most_recent_video': {'title': 'România Frumoasă din Suceava – natură, oameni și tradiții', 'publishedAt': '2025-03-13T06:00:36Z', 'url': 'https://www.youtube.com/watch?v=yaft1mShMp4'}, 'channel_distribution': {'Framing Reality': 1, '6AM Travel': 1, 'Euronews Romania': 1, 'A-TravelVideo': 1, '2 Tickets': 1, 'Wiki Peaks': 1, 'Idei de Calatorie': 1, 'Romania Revealed': 1, 'Dracula': 1, 'TwoBritsTravel': 1, 'Elia Aquilini Stoffella': 1, 'Destinația Anului©': 1, 'A Special Travel': 1, 'Sergiu 004': 1, 'MrBangthamai': 1, 'Jamie Does Life': 1, 'BOGDAN BLOG 🇷🇴': 2, 'Bucovina mea frumoasa': 1, 'Usu The Man': 1}, 'status': 'success'}VideoAnalyzerAgent: Calling callback...Orchestrator: Received results from VideoAnalyzerAgent.
+InsightAgent: Executing...InsightAgent: Generated Insights:
+Found 20 videos related to the topic.
+The most common tag is 'suceava', suggesting its importance for discoverability.
+On average, videos in this topic have approximately 8,577 views.
+The video with the highest views is '🇷🇴 Suceava in 4K: The Historical And Cultural Hub of Bukovina' with 48,626 views, indicating a potential trend or popular content style.
+The most recent video found is 'România Frumoasă din Suceava – natură, oameni și tradiții', published on 2025-03-13T06:00:36Z, highlighting recent activity in the topic.
+The videos are spread across 19 different channels.
+'BOGDAN BLOG 🇷🇴' is the most active channel found in this search with 2 video(s).InsightAgent: Calling callback...Orchestrator: Received results from InsightAgent.
+ReportGeneratorAgent: Executing...ReportGeneratorAgent: Generated Report:
+--- Analysis Report ---
+
+--- Key Insights ---
+Found 20 videos related to the topic.
+The most common tag is 'suceava', suggesting its importance for discoverability.
+On average, videos in this topic have approximately 8,577 views.
+The video with the highest views is '🇷🇴 Suceava in 4K: The Historical And Cultural Hub of Bukovina' with 48,626 views, indicating a potential trend or popular content style.
+The most recent video found is 'România Frumoasă din Suceava – natură, oameni și tradiții', published on 2025-03-13T06:00:36Z, highlighting recent activity in the topic.
+The videos are spread across 19 different channels.
+'BOGDAN BLOG 🇷🇴' is the most active channel found in this search with 2 video(s).
+
+--- Video Analysis ---
+Number of videos found: 20
+Most Common Tags:
+- suceava (8)
+- suceava romania (5)
+- bucovina (5)
+- romania (4)
+- stefan cel mare (3)
+
+--- Statistics Analysis ---
+Average View Count: 8,577
+Average Like Count: 189
+Average Comment Count: 0
+Video with Highest Views: "🇷🇴 Suceava in 4K: The Historical And Cultural Hub of Bukovina" (48,626 views)
+URL: https://www.youtube.com/watch?v=BvQ9i3pTO7M
+Most Recent Video: "România Frumoasă din Suceava – natură, oameni și tradiții"
+Published On: 2025-03-13T06:00:36Z
+URL: https://www.youtube.com/watch?v=yaft1mShMp4
+
+--- Channel Distribution ---
+- Framing Reality: 1 video(s)
+- 6AM Travel: 1 video(s)
+- Euronews Romania: 1 video(s)
+- A-TravelVideo: 1 video(s)
+- 2 Tickets: 1 video(s)
+- Wiki Peaks: 1 video(s)
+- Idei de Calatorie: 1 video(s)
+- Romania Revealed: 1 video(s)
+- Dracula: 1 video(s)
+- TwoBritsTravel: 1 video(s)
+- Elia Aquilini Stoffella: 1 video(s)
+- Destinația Anului©: 1 video(s)
+- A Special Travel: 1 video(s)
+- Sergiu 004: 1 video(s)
+- MrBangthamai: 1 video(s)
+- Jamie Does Life: 1 video(s)
+- BOGDAN BLOG 🇷🇴: 2 video(s)
+- Bucovina mea frumoasa: 1 video(s)
+- Usu The Man: 1 video(s)
+-----------------------
+ReportGeneratorAgent: Calling callback...Orchestrator: Received results from ReportGeneratorAgent.
+
+--- FINAL REPORT ---
+--- Analysis Report ---
+
+--- Key Insights ---
+Found 20 videos related to the topic.
+The most common tag is 'suceava', suggesting its importance for discoverability.
+On average, videos in this topic have approximately 8,577 views.
+The video with the highest views is '🇷🇴 Suceava in 4K: The Historical And Cultural Hub of Bukovina' with 48,626 views, indicating a potential trend or popular content style.
+The most recent video found is 'România Frumoasă din Suceava – natură, oameni și tradiții', published on 2025-03-13T06:00:36Z, highlighting recent activity in the topic.
+The videos are spread across 19 different channels.
+'BOGDAN BLOG 🇷🇴' is the most active channel found in this search with 2 video(s).
+
+--- Video Analysis ---
+Number of videos found: 20
+Most Common Tags:
+- suceava (8)
+- suceava romania (5)
+- bucovina (5)
+- romania (4)
+- stefan cel mare (3)
+
+--- Statistics Analysis ---
+Average View Count: 8,577
+Average Like Count: 189
+Average Comment Count: 0
+Video with Highest Views: "🇷🇴 Suceava in 4K: The Historical And Cultural Hub of Bukovina" (48,626 views)
+URL: https://www.youtube.com/watch?v=BvQ9i3pTO7M
+Most Recent Video: "România Frumoasă din Suceava – natură, oameni și tradiții"
+Published On: 2025-03-13T06:00:36Z
+URL: https://www.youtube.com/watch?v=yaft1mShMp4
+
+--- Channel Distribution ---
+- Framing Reality: 1 video(s)
+- 6AM Travel: 1 video(s)
+- Euronews Romania: 1 video(s)
+- A-TravelVideo: 1 video(s)
+- 2 Tickets: 1 video(s)
+- Wiki Peaks: 1 video(s)
+- Idei de Calatorie: 1 video(s)
+- Romania Revealed: 1 video(s)
+- Dracula: 1 video(s)
+- TwoBritsTravel: 1 video(s)
+- Elia Aquilini Stoffella: 1 video(s)
+- Destinația Anului©: 1 video(s)
+- A Special Travel: 1 video(s)
+- Sergiu 004: 1 video(s)
+- MrBangthamai: 1 video(s)
+- Jamie Does Life: 1 video(s)
+- BOGDAN BLOG 🇷🇴: 2 video(s)
+- Bucovina mea frumoasa: 1 video(s)
+- Usu The Man: 1 video(s)
+-----------------------
+--------------------
